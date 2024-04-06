@@ -8,3 +8,5 @@ main.spec
 interface/
 Config/
 __pycache__/
+setup/
+output/
