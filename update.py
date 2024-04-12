@@ -1,4 +1,4 @@
-from app.common import QApplication, QMessageBox, subprocess, sys, os, requests
+from common import QApplication, QMessageBox, subprocess, sys, os, requests
 
 def check_for_updates():
     latest_version = get_latest_version_from_github()

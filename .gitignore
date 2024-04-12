@@ -10,3 +10,5 @@ Config/
 __pycache__/
 setup/
 output/
+mods/
+testt.pyw
