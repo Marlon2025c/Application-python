@@ -1,4 +1,4 @@
-from common import requests, os, shutil
+from interface.common import requests, os, shutil
 
 MODS_TO_DOWNLOAD = [
     ("create", "https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar"),
@@ -40,6 +40,7 @@ MODS_TO_DOWNLOAD = [
     ('ZeroCore2', 'https://cdn.modrinth.com/data/rHpb85Mf/versions/kR2IVnv0/ZeroCore2-1.20.1-2.1.39.jar'),
     ('zombieawareness', 'mods/zombieawareness.jar'),
     ('BadMobs', 'mods/BadMobs.jar'),
+    ('MiningDimension', 'mods/miningdimension.jar.jar'),
 
     ("cfm", "mods/cfm.jar"),  # Exemple de mod local
     ("optifine", "mods/optifine.jar"),  # Exemple de mod local

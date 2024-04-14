@@ -7,8 +7,6 @@ idini= configparser.ConfigParser()
 config = configparser.ConfigParser()
 
 
-
-
 # Function to load login information from login.ini
 def load_login_info():
     login_info = {}
