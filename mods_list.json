@@ -32,6 +32,6 @@
   { "name": "ZeroCore2", "url": "https://cdn.modrinth.com/data/rHpb85Mf/versions/kR2IVnv0/ZeroCore2-1.20.1-2.1.39.jar", "is_additional": false },
   { "name": "zombieawareness", "url": "mods/zombieawareness.jar", "is_additional": false },
   { "name": "BadMobs", "url": "mods/BadMobs.jar", "is_additional": false },
-  { "name": "cfm", "url": "mods/cfm.jar", "is_additional": true },
+  { "name": "cfm", "url": "mods/cfm.jar", "is_additional": false },
   { "name": "optifine", "url": "mods/optifine.jar", "is_additional": true }
 ]
