@@ -1,14 +1,1 @@
-build/
-dist/
-logs/
-cryptage.py
-id.ini
-main.spec
-.spaziacraft/
-interface/
-Config/
-__pycache__/
 setup/
-output/
-mods/
-testt.pyw
