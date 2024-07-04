@@ -153,6 +153,14 @@ QLabel {
 #page_btn_deposer_pack:hover {
   background-color: rgba(86, 101, 115, 0.5);
 }
-#page_btn_sup_pack{
+#page_btn_sup_pack {
   background-color: transparent;
+}
+
+#launcher_minecraft {
+  color: #000000;
+}
+#label_memoire_ram,
+#label_slider {
+  color: #000000;
 }
