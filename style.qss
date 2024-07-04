@@ -1,0 +1,158 @@
+/*= Style for mainwindow START
+  ==================================================== */
+#MainWindow {
+  background-color: #fff;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for header widget START
+  ==================================================== */
+#widget {
+  background-color: #f9fafd;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon only START
+  ==================================================== */
+/* style for widget */
+#icon_only_widget {
+  background-color: #313a46;
+  width: 50px;
+}
+
+/* style for QPushButton and QLabel */
+#icon_only_widget QPushButton,
+QLabel {
+  height: 50px;
+  border: none;
+  /* border-bottom: 1px solid #b0b0b0; */
+}
+
+#icon_only_widget QPushButton:hover {
+  background-color: rgba(86, 101, 115, 0.5);
+}
+
+/* style for logo image */
+#logo_label_1 {
+  padding: 5px;
+}
+
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon and text START
+  ==================================================== */
+/* style for widget */
+#full_menu_widget {
+  background-color: #313a46;
+}
+
+/* style for QPushButton */
+#full_menu_widget QPushButton {
+  border: none;
+  border-radius: 3px;
+  text-align: left;
+  padding: 8px 0 8px 15px;
+  color: #788596;
+}
+
+#full_menu_widget QPushButton:hover {
+  background-color: rgba(86, 101, 115, 0.5);
+}
+
+#full_menu_widget QPushButton:checked {
+  color: #fff;
+}
+
+/* style for logo image */
+#logo_label_2 {
+  padding: 5px;
+  color: #fff;
+}
+
+/* style for APP title */
+#logo_label_3 {
+  padding-right: 10px;
+  color: #fff;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for user information button START
+  ==================================================== */
+#user_btn {
+  border: none;
+}
+
+#close_window_button:hover {
+  background-color: #ff0505;
+}
+/*= END
+  ==================================================== */
+
+#page_home {
+  border-image: url(asset/fond_mainmenu.jpg) 0 0 0 0 stretch stretch;
+}
+#widget {
+  background-color: transparent;
+}
+#label_nombre_de_joueurs,
+#icon_server_conecter {
+  background-color: #313a46;
+  color: #fff;
+}
+#notes_mise_a_jour_btn {
+  margin-left: 20px;
+}
+#label_spaziacraft {
+  color: rgb(255, 166, 0);
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#launcher_minecraft {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+#version_launcher {
+  font-weight: bold;
+}
+
+#lateral_parametres {
+  background-color: #313a46;
+  border-left: 2px solid rgba(86, 101, 115, 0.5); /* 5px de largeur, solide, couleur noire */
+}
+#lateral_parametres QPushButton {
+  color: #fff;
+  height: 50px;
+  border: none;
+}
+#lateral_parametres QLabel {
+  color: #313a46;
+}
+#header_frame QLabel {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+}
+
+#lateral_parametres QPushButton:hover {
+  background-color: rgba(86, 101, 115, 0.5);
+}
+#page_label_reparer_jeu {
+  margin-top: 20px;
+}
+#page_btn_reparer_launcher {
+  margin-bottom: 20px;
+}
+#page_btn_deposer_pack:hover {
+  background-color: rgba(86, 101, 115, 0.5);
+}
+#page_btn_sup_pack{
+  background-color: transparent;
+}
