@@ -1,7 +1,7 @@
 from import_perso import requests, os, shutil, json
 
 # URL du fichier JSON hébergé sur GitHub
-json_url = 'https://raw.githubusercontent.com/Marlon2025c/Application-python/master/mods_list.json'
+json_url = 'https://raw.githubusercontent.com/Marlon2025c/Application-python/master/mods/liste_mods.json'
 
 # Fonction pour lire les mods depuis une URL
 def load_mods_from_url(url):

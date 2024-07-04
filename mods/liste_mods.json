@@ -1,1 +1,7 @@
-[{ "name": "create", "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar", "is_additional": false }]
+[
+  { "name": "BadMobs", "url": "https://github.com/Marlon2025c/Application-python/raw/master/mods/BadMobs.jar", "is_additional": false },
+  { "name": "cfm", "url": "https://github.com/Marlon2025c/Application-python/raw/master/mods/cfm.jar", "is_additional": false },
+  { "name": "miningdimension", "url": "https://github.com/Marlon2025c/Application-python/raw/master/mods/miningdimension.jar", "is_additional": false },
+  { "name": "optifine", "url": "https://github.com/Marlon2025c/Application-python/raw/master/mods/optifine.jar", "is_additional": true },
+  { "name": "zombieawareness", "url": "https://github.com/Marlon2025c/Application-python/raw/master/mods/zombieawareness.jar", "is_additional": false }
+]
